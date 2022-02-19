@@ -1,0 +1,14 @@
+{
+    "global": {
+        "login": "Đăng nhập",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "register": "Đăng ký"
+    },
+    "login": {
+        "title": "Đăng nhập với tài khoản của bạn",
+        "emailPlaceholder": "Nhập email",
+        "passwordPlaceholder": "Nhập mật khẩu",
+        "forgotPassword": "Quên mật khẩu?"
+    }
+}

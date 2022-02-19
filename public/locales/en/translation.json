@@ -1,0 +1,14 @@
+{
+    "global": {
+        "login": "Login",
+        "email": "Email",
+        "password": "Password",
+        "register": "Register"
+    },
+    "login": {
+        "title": "Login with your account",
+        "emailPlaceholder": "Enter your email",
+        "passwordPlaceholder": "Enter your password",
+        "forgotPassword": "Forgot your password?"
+    }
+}
